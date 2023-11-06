@@ -1,0 +1,4 @@
+name: Template
+main: io.tofpu.template.plugin.TemplatePlugin
+version: ${version}
+api-version: 1.13
